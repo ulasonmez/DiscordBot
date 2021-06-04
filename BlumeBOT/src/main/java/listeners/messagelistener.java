@@ -2,8 +2,6 @@ package listeners;
 
 import java.awt.Color;
 import java.util.Random;
-import java.util.concurrent.TimeUnit;
-
 import org.javacord.api.entity.message.Message;
 import org.javacord.api.entity.message.MessageBuilder;
 import org.javacord.api.entity.message.embed.EmbedBuilder;
